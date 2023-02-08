@@ -29,9 +29,6 @@ import smbus
 import sys
 import time
 
-import smbus
-import time
-
 # Config Register (R/W)
 _REG_CONFIG                 = 0x00
 # SHUNT VOLTAGE REGISTER (R)
